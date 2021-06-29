@@ -25,5 +25,3 @@ Please make sure to update tests as appropriate.
 
 ## Contacts
 Bruno Casella - casella0798@gmail.com
-
-https://colab.research.google.com/drive/1o4n2joJGmPYtKYu19ZY3mchgGroqWu0n?usp=sharing
