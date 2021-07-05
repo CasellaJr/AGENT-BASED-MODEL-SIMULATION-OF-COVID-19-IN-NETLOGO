@@ -3,7 +3,7 @@ AGENT-BASED MODEL SIMULATION OF COVID-19 IN NETLOGO
 
 ## Description
 
-Inspired in the COVID-19 pandemic, this simplified model simulates the transmission and perpetuation of a virus in a human population. The model is initialized with 720 people, of which only 1 is infected. People move randomly about the world in one of the following states: not infected (blue), infected (yellow), immune (green). People may die (red) of infection. Upon setup, population is assigned a random age. Elders (those older than 60 years old) have a different risk to die from the disease.
+Inspired in the COVID-19 pandemic, this simplified model simulates the transmission and perpetuation of a virus in a human population. The model is initialized with 720 people, of which only 1 is infected. People move randomly about the world in one of the following states: not infected (blue), infected (yellow), immune (green). People may die (red) of infection. 
 
 ## Usage
 Each “tick” represents a day in the time scale of this model.
